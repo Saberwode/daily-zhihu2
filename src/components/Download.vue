@@ -75,6 +75,7 @@ export default {
 <style scoped>
 .download {
   background: #008bea;
+  padding-top: 114px;
 }
 .download-body {
   width: 1460px;
